@@ -1,12 +1,11 @@
 ## YouTube Video Transcript Summarizer using Generative AI
 
-### Introduction
 
+### Introduction
 This project is a Generative AI-powered web application that summarizes YouTube videos using their available transcripts. Users can provide a YouTube video link and select the transcript language, after which the application extracts the transcript and generates concise detailed notes using Google Gemini. Built with Streamlit, the application provides a simple and interactive interface for converting lengthy video transcripts into easy-to-read summaries.
 
 
 ### Technologies Used
-
 * Python
 * Google Gemini
 * YouTube Transcript API
